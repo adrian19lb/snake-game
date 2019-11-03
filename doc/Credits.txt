@@ -1,0 +1,14 @@
+Design and game development:
+   Adrian Demianiuk (adrian19lb) - https://github.com/adrian19lb
+Textures and backgrounds: 
+   Joshua Robertson (J-Robot) - https://j-robotson.tumblr.com 
+Fonts: 
+   Kenney Vleugels (Kenney) - https://kenney.nl
+Sound effects: 
+   Joshua Robertson (J-Robot), 
+   Beau Buckley (Fantasy Musica) - https://fantasymusica.org,
+   https://mobeyee.com
+Music:
+   Snabish - http://snabisch.blogspot.com.es,
+   https://opengameart.org/content/surfside,
+   Ctskelgysth Inauaruat
